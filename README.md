@@ -1,58 +1,45 @@
 # Alfido Tech Internship – Frontend Development Tasks
 
-This repository contains my submission for the **Frontend Developer Internship** at **Alfido Tech**. The tasks showcase my skills in HTML, CSS, and JavaScript, including UI design, interactivity, and DOM manipulation.
+This repository contains my submission for the **Frontend Developer Internship** at **Alfido Tech**.  
+The tasks showcase my skills in **HTML**, **CSS**, and **JavaScript**, including **UI design**, **DOM manipulation**, and **responsive layouts**.
 
 ---
 
-## 🔧 Tasks Overview:
+## 🔧 Completed Tasks
 
-### ✅ Task 1: Basic Webpage
-A simple HTML webpage demonstrating structure with headings, paragraphs, images, and links.
+### ✅ Task 1: Simple Web Page  
+Created a basic web page using HTML and CSS to demonstrate layout and styling fundamentals.
 
-- Features:
-  - Clean layout using semantic HTML tags
-  - Proper use of headings and paragraph structure
+> File: index.html
 
 ---
 
-### ✅ Task 2: Responsive Navbar with Bootstrap
-Created a responsive navigation bar using Bootstrap 5.
+### ✅ Task 2: Responsive Navbar using Bootstrap  
+Built a responsive navigation bar using Bootstrap classes that adjusts across screen sizes.
 
-- Features:
-  - Mobile-friendly design
-  - Collapsible menu on small screens
-  - Navigation links aligned properly
+> File: index.html
 
 ---
 
-### ✅ Task 3: JavaScript Event Handling
-Developed a JavaScript feature to change the background color randomly on button click.
+### ✅ Task 3: JavaScript Interaction  
+Implemented a button with JavaScript that changes the background color of the page dynamically.
 
-- Features:
-  - Interactive button with hover effect
-  - Generates vibrant random colors on each click
-  - JavaScript-powered DOM manipulation
+> File: projects.html
 
 ---
 
-### ✅ Task 4: To-Do List Application
-Built a dynamic to-do list using HTML, CSS, and JavaScript.
+### ✅ Task 4: To-Do List App  
+Created a dynamic To-Do List using HTML, CSS, and JavaScript. Users can add and remove tasks.
 
-- Features:
-  - Add and delete tasks dynamically
-  - Real-time UI updates
-  - Simple and clean user interface
+> File: contactus.html
 
 ---
 
-## 🛠️ Tech Stack Used:
-- HTML5
-- CSS3
-- JavaScript (Vanilla)
-- Bootstrap 5 (Task 2)
+## 🧑‍💻 Author  
+**Ridhima Sharma**  
+MCA Student | Aspiring Full Stack Developer
 
 ---
 
-## 🔗 GitHub Pages Live Preview (if hosted)
-> You can visit the live preview (https://ridhimaa0827.github.io/Alfido-Tech-Intern/)
-
+## 📸 Screenshot  
+mypic.jpg
